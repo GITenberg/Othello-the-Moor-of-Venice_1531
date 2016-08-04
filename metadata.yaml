@@ -1,0 +1,38 @@
+_repo: Othello-the-Moor-of-Venice_1531
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: 'Othello, The Moor of Venice is a tragedy by William Shakespeare, believed
+  to have been written in approximately 1603. The work revolves around four central
+  characters: Othello, his wife Desdemona, his lieutenant Cassio, and his trusted
+  advisor Iago. Attesting to its enduring popularity, the play appeared in 7 editions
+  between 1622 and 1705. Because of its varied themes.'
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interracial marriage -- Drama'
+- !lcc 'PR'
+- !lcsh 'Jealousy -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Muslims -- Drama'
+- !lcsh 'Venice (Italy) -- Drama'
+- !lcsh 'Othello (Fictitious character) -- Drama'
+- GITenberg
+title: Othello, the Moor of Venice
+url: http://www.gutenberg.org/ebooks/1531
